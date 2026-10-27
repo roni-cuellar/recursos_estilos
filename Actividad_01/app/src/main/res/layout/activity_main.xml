@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp" android:background="#FFFFFF">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Landscape design" android:textSize="18sp" android:gravity="center" android:padding="10dp"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="GeeksforGeeks" android:textSize="26sp" android:gravity="center" android:padding="10dp"/>
+    <EditText android:id="@+id/name" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Name" android:inputType="text"/>
+    <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="BUTTON 1"/>
+    <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="BUTTON 2"/>
+    <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="BUTTON 3"/>
+</LinearLayout>

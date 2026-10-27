@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label0">Buttons</string>
+    <string name="label1">Raised Button</string>
+    <string name="label2">Flat Button</string>
+    <string name="label3">NORMAL</string>
+    <string name="label4">PRESSED</string>
+    <string name="label5">DISABLED</string>
+</resources>

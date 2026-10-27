@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp" android:background="#FFFFFF">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label0" android:textSize="24sp" android:gravity="center" android:padding="10dp"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label1" android:textSize="20sp" android:gravity="center" android:padding="10dp"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label2" android:textSize="20sp" android:gravity="center" android:padding="10dp"/>
+    <EditText android:id="@+id/product" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/label3" android:inputType="text"/>
+    <EditText android:id="@+id/quantity" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/label4" android:inputType="text"/>
+    <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label5" android:id="@+id/add"/>
+    <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label6" android:id="@+id/update"/>
+    <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label7" android:id="@+id/delete"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Product list" android:textSize="18sp" android:gravity="center" android:padding="10dp" android:id="@+id/result"/>
+</LinearLayout>

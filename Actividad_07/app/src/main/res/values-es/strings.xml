@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label0">Inventario</string>
+    <string name="label1">ID del producto</string>
+    <string name="label2">Sin asignar</string>
+    <string name="label3">Nombre del producto</string>
+    <string name="label4">Cantidad</string>
+    <string name="label5">AGREGAR</string>
+    <string name="label6">ACTUALIZAR</string>
+    <string name="label7">ELIMINAR</string>
+</resources>

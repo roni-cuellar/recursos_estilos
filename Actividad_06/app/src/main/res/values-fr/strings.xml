@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label0">Tutoriel boutons radio</string>
+    <string name="label1">Quelle est la plus haute montagne du monde ?</string>
+    <string name="label2">Everest</string>
+    <string name="label3">K2</string>
+    <string name="label4">Kilimandjaro</string>
+    <string name="label5">Envoyer</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label0">RoomDemo</string>
+    <string name="label1">Product ID</string>
+    <string name="label2">Not assigned</string>
+    <string name="label3">Product Name</string>
+    <string name="label4">Product Quantity</string>
+    <string name="label5">ADD</string>
+    <string name="label6">UPDATE</string>
+    <string name="label7">DELETE</string>
+</resources>

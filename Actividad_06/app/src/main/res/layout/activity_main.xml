@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp" android:background="#FFFFFF">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label0" android:textSize="22sp" android:gravity="center" android:padding="10dp"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label1" android:textSize="18sp" android:gravity="center" android:padding="10dp"/>
+    <RadioGroup android:id="@+id/options" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RadioButton android:id="@+id/option0" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label2"/>
+        <RadioButton android:id="@+id/option1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label3"/>
+        <RadioButton android:id="@+id/option2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label4"/>
+    </RadioGroup>
+    <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/label5" android:id="@+id/send"/>
+</LinearLayout>

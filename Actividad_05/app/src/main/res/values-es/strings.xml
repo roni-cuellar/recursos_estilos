@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label0">Inicio</string>
+    <string name="label1">Ir a otra actividad</string>
+    <string name="label2">Ir a actividad</string>
+    <string name="label3">INICIO</string>
+</resources>

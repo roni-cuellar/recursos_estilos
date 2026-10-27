@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+    <style name="GreenButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">#0A9B4A</item>
+        <item name="cornerRadius">18dp</item>
+    </style>
+    <style name="OutlineGreen" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">#0A9B4A</item>
+        <item name="android:textColor">#0A9B4A</item>
+    </style>
+    <style name="TextGreen" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">#0A9B4A</item>
+    </style>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label0">Radio Button Tutorial</string>
+    <string name="label1">What is the world’s highest mountain?</string>
+    <string name="label2">Everest</string>
+    <string name="label3">K2</string>
+    <string name="label4">Kilimanjaro</string>
+    <string name="label5">Submit Answer</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label0">Boutons</string>
+    <string name="label1">Bouton surélevé</string>
+    <string name="label2">Bouton plat</string>
+    <string name="label3">NORMAL</string>
+    <string name="label4">APPUYÉ</string>
+    <string name="label5">DÉSACTIVÉ</string>
+</resources>
